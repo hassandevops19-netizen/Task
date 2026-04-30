@@ -144,5 +144,4 @@ kubectl describe pod <pod-name>
 ---
 
 ## Author
-
-Fatma Alaa Hassan
+Hassan Ali
